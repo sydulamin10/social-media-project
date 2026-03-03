@@ -1,0 +1,19 @@
+PORT = 3000
+BASE_API_URL = /api/v1
+DATABASE_CONNECTION_URL = mongodb+srv://oyaTodo:PgPqiD9tB80GyU8M@oya.ecqa0f3.mongodb.net/SocialMediaDB?retryWrites=true&w=majority&appName=OYA
+SECRET_TOKEN = TcGo4vDm@a0J\R;
+SENDING_MAIL_ID = erp@devsramen.com
+SENDING_MAIL_PASSWORD = utYn[UX41-kcs02~
+CLIENT_URL= http://localhost:5173
+
+CLOUDINARY_NAME = dsxsfmiyx
+CLOUDINARY_API_KEY = 536998793535117
+CLOUDINARY_API_SECRET = qx9ponJl1_T2jPOp6C3mHJWhVXs
+
+
+BASE_URL = http://localhost:5173
+EMAIL= 
+MAILING_ID=
+MAILING_SECRET =
+MAILING_REFRESH =
+MAILING_ACCESS =
